@@ -28,8 +28,12 @@ Algorithm
 
 Program
 
+<img width="739" height="524" alt="image" src="https://github.com/user-attachments/assets/d0dd71ba-1175-41e2-900a-5c67273d223b" />
+
 
 Output Waveform
+
+<img width="690" height="522" alt="image" src="https://github.com/user-attachments/assets/b67484dc-2b28-4b32-822e-4bed6167762b" />
 
 
 Tabular Column
