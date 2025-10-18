@@ -40,6 +40,10 @@ Tabular Column
 
 ![WhatsApp Image 2025-10-18 at 13 16 08_5aa88a28](https://github.com/user-attachments/assets/678a1ab3-ec65-43ea-9868-6c890074cf73)
 
+Calculation
+
+<img width="511" height="405" alt="image" src="https://github.com/user-attachments/assets/01cd4878-5c54-4498-839d-46240d6f2ca5" />
+
 
 Result
 
